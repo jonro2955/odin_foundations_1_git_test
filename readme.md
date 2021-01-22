@@ -1,1 +1,1 @@
-This is Jonathan's first git project!
+This is the first project in The Odin Project's Foundations program. The purpose of this project is simply to set up a github account, create a new repository, and make changes to it using git on the local machine's cammand line.
