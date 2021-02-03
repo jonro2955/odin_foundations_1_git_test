@@ -5,3 +5,5 @@ What I learned:
 - Creating new repositories on Git and Github.
 
 - Using the shell command line on my local machine to clone, add, commit and push files onto Github.
+
+- Changing git repository filenames 
