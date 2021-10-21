@@ -2,7 +2,7 @@
 
 This is the first project in The Odin Project's "Foundations" Curriculum: https://www.theodinproject.com/paths/foundations. 
 
-The purpose of this project is to set up an empty HTML file with an empty CSS file and an empty JavaScript file linked in to serve as the starting point for future web projects. 
+The purpose of this project is to set up an empty HTML file with an empty CSS file and an empty JavaScript file linked together to serve as the starting point for future web projects. 
 
 What I learned:
 
