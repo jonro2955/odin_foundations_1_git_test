@@ -1,4 +1,5 @@
-# Git Test https://jonro2955.github.io/odin_foundations_1_git_test/
+# Git Test 
+https://jonro2955.github.io/odin_foundations_1_git_test/
 
 This is the first project in The Odin Project's "Foundations" Curriculum: https://www.theodinproject.com/paths/foundations. 
 
